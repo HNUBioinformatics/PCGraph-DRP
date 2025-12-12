@@ -1,0 +1,9 @@
+# 忽略Python编译缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# 可补充其他冗余文件（比如日志、临时文件夹）
+*.log
+*.csv
+tmp/
