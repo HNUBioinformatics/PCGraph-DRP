@@ -1,9 +1,6 @@
 # PCGraph-DRP
 
 PCGraph-DRP：A Pathway-Cell Line Heterogeneous Graph Model Driven by Multi-Omics Data for Cancer Drug Response Prediction
-
-![model](E:\git bash file2\model.png)
-
 ## Requirements
 
 - Please install the environment using anaconda3;
