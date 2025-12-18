@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PCGraph-DRP
 
 PCGraph-DRP：A Pathway-Cell Line Heterogeneous Graph Model Driven by Multi-Omics Data for Cancer Drug Response Prediction
@@ -78,3 +79,6 @@ PCGraph-DRP：A Pathway-Cell Line Heterogeneous Graph Model Driven by Multi-Omic
 model/ : HierarchicalGNNFeatureExtractor.py PCGraph-DRP model file
 
 train-> run train_omics_gatefusion.py
+=======
+# PCGraph-DRP
+>>>>>>> 09ddac1cad427c3605b9f860ff7355bdfe6b3778
