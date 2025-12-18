@@ -3,8 +3,6 @@
 
 PCGraph-DRP：A Pathway-Cell Line Heterogeneous Graph Model Driven by Multi-Omics Data for Cancer Drug Response Prediction
 
-![model](E:\git bash file2\model.png)
-
 ## Requirements
 
 - Please install the environment using anaconda3;
@@ -81,4 +79,3 @@ model/ : HierarchicalGNNFeatureExtractor.py PCGraph-DRP model file
 train-> run train_omics_gatefusion.py
 =======
 # PCGraph-DRP
->>>>>>> 09ddac1cad427c3605b9f860ff7355bdfe6b3778
